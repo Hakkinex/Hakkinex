@@ -3,10 +3,7 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- Test on iOS app from iPhone 14 Pro Max
-- Test on VSCODE again
-- Test on VScode of Chromebook
-- Reopen the repository
+- Clean all message
 
 <!---
 Hakkinex/Hakkinex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
